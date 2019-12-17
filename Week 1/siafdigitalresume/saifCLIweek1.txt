@@ -1,0 +1,6 @@
+1. Chflags hidden /Users/username/folder dir/folder name
+   chflags nohidden /Users/username/folder dir/folder name
+
+2. mkdir -p Users/username/these/folders/are/just/for/fun
+
+3. echo -n "some text here">> filename.txt
