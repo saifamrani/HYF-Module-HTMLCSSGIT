@@ -1,5 +1,5 @@
-1. Chflags hidden /Users/username/folder dir/folder name
-   chflags nohidden /Users/username/folder dir/folder name
+1. touch .filename.txt or mkdir .filename
+   ls -a (to make the file or the floder unhidden)
 
 2. mkdir -p Users/username/these/folders/are/just/for/fun
 
